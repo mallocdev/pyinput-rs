@@ -1,0 +1,10 @@
+[package]
+name = "pyinput"
+version = "0.1.0"
+edition = "2024"
+authors = ["mallocdev <herdersonriker@gmail.com>"]
+description = "A Python-like input library for Rust"
+license = "MIT"
+repository = "https://github.com/mallocdev/pyinput-rs"
+
+[dependencies]
